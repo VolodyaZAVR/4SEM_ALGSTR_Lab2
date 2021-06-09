@@ -1,0 +1,36 @@
+﻿  UnitTest2.cpp
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(123,8): error C2039: "cout": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\sstream(20): message : см. объявление "std"
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(123,13): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(126,7): error C2039: "cout": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\sstream(20): message : см. объявление "std"
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(126,12): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(126,24): error C2563: несоответствие в списке формальных параметров
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(126,24): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(126,24): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\Char_List.h(118,9): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\Char_List.h(121,5): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(146,2): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(147,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(148,3): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(150,2): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(150,14): error C2563: несоответствие в списке формальных параметров
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(150,14): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(150,14): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(152,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(153,3): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(156,2): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(156,15): error C2563: несоответствие в списке формальных параметров
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(156,15): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(156,15): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(162,2): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(166,3): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(168,4): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(170,3): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(172,2): error C2065: cout: необъявленный идентификатор
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(172,15): error C2563: несоответствие в списке формальных параметров
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(172,15): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(172,15): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(178,2): error C2065: cout: необъявленный идентификатор

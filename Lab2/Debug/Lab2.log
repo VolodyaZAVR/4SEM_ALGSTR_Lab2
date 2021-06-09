@@ -1,0 +1,9 @@
+﻿  Lab2.cpp
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(147,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(152,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\List.h(82): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\Char_List.h(113): warning C4715: Char_List::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\haffman.h(33): warning C4715: Find_code_sym: значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> C:\Users\hispe\Workspace\C++\4 sem aisd\Lab2\Debug\Lab2.exe
